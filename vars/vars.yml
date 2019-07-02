@@ -1,0 +1,8 @@
+aws_profile: scale-test
+key_name: jmarshall
+instance_type: t3.large
+desired_targets:
+  # how many centos SSH hosts you want
+  cent_ssh: "{{ tower_cent_ssh }}"
+  # how many Cisco IOS simulator hosts you want
+  cisco_ios: 0

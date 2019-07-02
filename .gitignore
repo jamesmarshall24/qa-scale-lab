@@ -1,5 +1,5 @@
 clints
-vars/vars.yml
+#vars/vars.yml
 inventory/all.clints.yml
 *.retry
 
