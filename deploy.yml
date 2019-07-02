@@ -7,7 +7,6 @@
   - vars/vars.yml
   module_defaults:
     group/aws:
-      profile: '{{ aws_profile }}'
       region: '{{ aws_region }}'
   tasks:
   - set_fact:
