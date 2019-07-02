@@ -1,6 +1,6 @@
 clints
 #vars/vars.yml
-inventory/all.clints.yml
+#inventory/all.clints.yml
 *.retry
 
 # Byte-compiled / optimized / DLL files

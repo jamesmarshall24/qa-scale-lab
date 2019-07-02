@@ -1,0 +1,4 @@
+plugin: clints
+regions:
+  - us-west-2
+boto_profile: scale-test
