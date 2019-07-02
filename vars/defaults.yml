@@ -6,8 +6,8 @@ instances:
     mem_capacity: 62952
   c5.4xlarge:
     mem_capacity: 31144
-instance_type: m5.4xlarge
-aws_region: us-east-2
+instance_type: t3.large
+aws_region: us-west-2
 desired_targets:
-  cent_ssh: 2000
+  cent_ssh: 800
   cisco_ios: 0
